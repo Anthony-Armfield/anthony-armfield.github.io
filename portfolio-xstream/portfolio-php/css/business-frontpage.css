@@ -1,0 +1,91 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+.date {
+  color: white;
+}
+
+.header {
+  height: 500px;
+  min-height: 300px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.business {
+  background: url('../img/dev-background.jpg') center center no-repeat scroll;
+}
+
+.city {
+  background: url('../img/city.jpg') center center no-repeat scroll;
+}
+
+.coffee {
+  background: url('../img/coffee.jpg') center center no-repeat scroll;
+}
+
+.meeting {
+  background: url('../img/business.jpg') center center no-repeat scroll;
+}
+
+.question {
+  background: url('../img/question.jpg') center center no-repeat scroll;
+}
+
+.card {
+  height: 100%;
+}
+
+a:not([href]):not([tabindex]) {
+  color: white;
+}
+
+h4 {
+    font-size: 120%;
+    padding: .25em 0 .25em 25px;
+    cursor: pointer;
+    background: url(../img/plus.png) no-repeat left center;
+}
+h4.minus {
+    background: url(../img/minus.png) no-repeat left center;
+}
+a {
+    color: black;
+    text-decoration: none; 
+}
+a:focus, a:hover { color: blue; }
+
+div.closed {
+    display: none;
+}
+div.open {
+    display: block;
+}
+
+label {
+  float: left;
+    width: 11em;
+    text-align: right;
+}
+input {
+    margin-left: 1em;
+  margin-right: 1em;
+    margin-bottom: .5em;
+    width: 11em;
+}
+
+/* Media Queries */
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}

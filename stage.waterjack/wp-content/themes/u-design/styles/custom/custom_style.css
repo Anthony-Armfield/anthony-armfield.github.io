@@ -1,0 +1,228 @@
+/* Custom Styles */
+body, #page-content-title .title-description { font-family:'Raleway'; font-weight: normal; font-style: normal; }
+body { font-size:16px; line-height:1.7; }
+h1, h2, h3, h4, h5, h6, #slogan { font-family:'Raleway'; }
+h1, h2, h3, h4, h5, h6 { line-height:1.2; font-weight: 700; font-style: normal; }
+
+#top-elements { height:80px; }
+    #logo h1 a, #logo .site-name a { background:transparent url( http://stage.waterjack.anthony-armfield.com/wp-content/uploads/2017/12/waterjack_mainLogo_2_med.png ) no-repeat 0 100%; width:303px; height:68px; }       
+#logo { top: 15px; }
+#slogan { 
+    top:100px;
+    left:0px;
+}
+#slogan { font-size:12px; }
+#navigation-menu { font-family:'Raleway'; font-weight: 700; font-style: normal; font-size:16px; }
+#navigation-menu > ul.sf-menu { margin-top:-45px; }
+    #main-menu { background:none; }
+h1 {font-size:1.833em; }
+h2 {font-size:1.667em; }
+h3 {font-size:1.5em; }
+h4 {font-size:1.333em; }
+h5 {font-size:1.25em; }
+h6 {font-size:1.083em; }
+
+#page-content-title #page-title h1, #page-content-title #page-title h2, #page-content-title #page-title h3 {font-size:1.667em;}
+.post-top h1, .post-top h2, .post-top h3 { font-size:1.9em; }
+#sidebarSubnav h3, h3.bottom-col-title {font-size:1.21em; }
+.portfolio-items-wrapper h2 {font-size:1.333em; }
+h2.portfolio-single-column {font-size:1.667em; }
+
+    h1 { font-family:'Raleway'; font-weight: 700; font-style: normal; font-size:2.75em; line-height:1.2; }
+    #page-content-title #page-title h1 { font-size:2.475em; }
+    .post-top h1 { font-size:2.82425em; }
+    h2 { font-family:'Raleway'; font-weight: 700; font-style: normal; font-size:2.30em; line-height:1.2; }
+    #page-content-title #page-title h2 { font-size:2.07em; }
+    .post-top h2 { font-size:2.645em; }
+    .portfolio-items-wrapper h2 {font-size:1.84em; }
+    h2.portfolio-single-column {font-size:2.30em; }
+    h3 { font-family:'Raleway'; font-weight: 700; font-style: normal; font-size:1.85em; line-height:1.2; }
+    #page-content-title #page-title h3 { font-size:1.665em; }
+    .post-top h3 { font-size:2.3495em; }
+    #sidebarSubnav h3, h3.bottom-col-title {font-size:1.4985em; }
+    h5 { font-family:'Raleway'; font-weight: 600; font-style: normal; font-size:1.25em; line-height:1.2; }
+    h6 { font-family:'Raleway'; font-weight: 500; font-style: normal; font-size:1.10em; line-height:1.2; }
+
+#c2-slider .slide-desc h2, #c2-slider .slide-desc { color:#333333; }
+#c2-slider .slide-desc h2 { font-size:1.8em !important; font-family:'Raleway'; line-height:1.7; }
+#c2-slider .slide-desc p, #c2-slider .slide-desc ul { font-size:1.2em; line-height:1.7; }
+#c3-slider .sliding-text { color:#FFFFFF; font-size:1.2em; line-height:1.7; }
+
+
+    #navigation-menu > ul.sf-menu { float:right; }
+    
+/* secondary nav bar items' alignments */
+#sec-nav-text-area-1 { text-align: right; }
+#sec-nav-text-area-2 { text-align: left; }
+#sec-nav-menu-area { text-align: center; }
+    
+
+body, .posts-counter, h3.accordion-toggle a { color:#2D648C; }
+a, #isotope-options li a:hover, #isotope-options li a.selected, h3.accordion-toggle.active a { color:#9BE4FF; }
+a:hover, .post-top h2 a:hover, .post-top h3 a:hover, #isotope-options li a, .single-post-nav-links .prev-title a:hover, .single-post-nav-links .next-title a:hover { color:#ABB8C5; }
+.custom-formatting li.current_page_item > a, .custom-formatting li.current-menu-item > a, .custom-formatting li.current-cat > a, .custom-formatting li.current > a { color: #ABB8C5; }
+.custom-formatting li.current_page_item > a:hover, .custom-formatting li.current-menu-item > a:hover,.custom-formatting li.current-cat > a:hover, .custom-formatting li.current > a:hover { color: #9BE4FF; }
+h1, h2, h3, h4, h5, h6, .post-top h2 a, .post-top h3 a, .single-post-nav-links .prev-title a, .single-post-nav-links .next-title a { color:#2D648C; }
+    #top-wrapper { background-color:#31393C; }
+#slogan, #top-elements .phone-number, #top-elements .social_media_title, #search input.blur, #search input.inputbox_focus { color:#2D648C; }
+#slogan{ color:#2D648C; }
+    #c1-header, #c2-header, #c3-header, #rev-slider-header { background-color:#FFFFFF; }
+    #navigation-menu > ul.sf-menu {
+        background-color: #31393C; /* the fallback */
+        background-color: rgba(49,57,60,0);
+    }
+    .u-design-responsive-on #navigation-menu ul.sf-menu > li:first-child { margin-left: 0; }     @media screen and (min-width: 720px) {
+    .u-design-fixed-menu-on.fixed-menu #main-menu {
+        background-color: #31393C; /* the fallback */
+        background-color: rgba(49,57,60,0);
+    }
+}
+#navigation-menu ul.sf-menu > li > a > span { color:#FFFFFF; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span, #navigation-menu ul.sf-menu > li.current_page_item > a > span { color:#9BE4FF; }
+#navigation-menu ul.sf-menu > li.current-menu-item > a > span:hover, #navigation-menu ul.sf-menu > li.current_page_item > a > span:hover { color:#ABB8C5; }
+#navigation-menu ul.sf-menu > li > a:hover span { color:#ABB8C5; }
+#navigation-menu ul.sf-menu a, #navigation-menu ul.sf-menu a:visited {color: #9BE4FF; }
+#navigation-menu ul.sf-menu a:hover  { color:#ABB8C5; }
+#navigation-menu ul.sf-menu li li {
+    background-image: none;
+    margin-bottom: 1px;
+    background-color: #31393C; /* the fallback */
+    background-color: rgba(49,57,60,0.75);
+}
+#secondary-navigation-bar-wrapper  {
+    background-color: #31393C; /* the fallback */
+    background-color: rgba(49,57,60,0.75);
+}
+#secondary-navigation-bar-content  { color:#9BE4FF; }
+#secondary-navigation-bar-content a { color:#9BE4FF; }
+#secondary-navigation-bar-content a:hover { color:#9BE4FF; }
+#page-content-title #page-title h1, #page-content-title #page-title h2, #page-content-title #page-title h3,
+#page-content-title #page-title .breadcrumbs, #page-content-title #page-title .breadcrumbs a { color:#9BE4FF; }
+    #page-content-title { background-color:#979B9D; }
+    #before-content { background: url("../common-images/home-page-before-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, #footer-bg { background: url("../common-images/home-page-content-top.png") repeat-x scroll 0 0; }
+    #home-page-content, #page-content, .no_title_section #page-content { background-color:#FFFFFF; }
+h3.before_cont_title { color:#333333; }
+#before-content { color:#333333; }
+    #before-content { background-color:#F8F8F8; }
+    #bottom-bg { background: url("http://stage.waterjack.anthony-armfield.com/wp-content/uploads/2016/07/bottom-bg.jpg") repeat-x scroll center top #31393C; }
+h3.bottom-col-title { color: #9BE4FF; }
+#bottom, #bottom .textwidget, #bottom #wp-calendar, #bottom .posts-counter { color: #FFFFFF; }
+#bottom a { color: #9BE4FF; }
+#bottom a:hover { color: #ABB8C5; }
+    #footer-bg { background-color: #FFFFFF; }
+body { background-color: #FFFFFF; }
+#footer, #footer_text { color: #2D648C; }
+#footer a, #footer_text a { color: #9BE4FF; }
+#footer a:hover, #footer_text a:hover { color: #9BE4FF; }
+
+
+    @media screen and (max-width: 719px) {
+        #logo { top: 6px; }
+        #logo h1 a, #logo .site-name a { background:transparent url( http://stage.waterjack.anthony-armfield.com/wp-content/uploads/2017/12/waterjack_mainLogo_2_med.png ) no-repeat 0 100%; height:70px; }
+        #wrapper-1, #top-wrapper, #c1-header, #c2-header, #c3-header, #rev-slider-header, #page-content-title, #home-page-content, #page-content, .no_title_section #page-content, #before-content, #bottom-bg, #footer-bg { background-image:none; }
+    }
+    @media screen and (max-width: 959px) {
+        #c2-slider .slide-desc p, #c2-slider .slide-desc ul  { font-size:1.1em; line-height:1.6; }
+        ul#c2-slider li ul li { font-size:0.8em; }
+    }
+    @media screen and (max-width: 480px) {
+        #c2-slider .slide-desc h2 { font-size:1.4em !important; line-height:1.5; }
+    }
+    @media screen and (min-width: 720px) and (max-width: 959px) {
+        .mean-container #logo {
+            left: 0;
+            margin-left: 0;
+            padding-left: 20px;
+            position: relative;
+            width: 700px;
+        }
+        .mean-container #logo h1 a, .mean-container #logo .site-name a {
+            width: 700px;
+            max-width: 700px;
+            background-position: 50% 60%;
+            background-size: inherit;
+        }
+    
+        #top-elements { min-height:68px; }
+        #c2-slider .slide-desc h2 { font-size:1.7em !important; line-height:1.6; }
+    }
+
+@media screen and (min-width: 720px) and (max-width: 959px) {
+    #sticky-menu-alias, #sticky-menu-logo { display: none !important; } }
+@media screen and (min-width: 960px) {
+    .u-design-fixed-menu-on.fixed-menu #top-elements,
+    .u-design-fixed-menu-on.fixed-menu #secondary-navigation-bar-wrapper {
+        display: none;
+        height: 0;
+        margin: 0;
+        padding: 0;
+    }
+    .u-design-fixed-menu-on.fixed-menu #top-wrapper {
+        background-color:#31393C;
+        position: fixed;
+        display: block;
+        width: 100%;
+        z-index: 9500;
+        opacity: 0.90;
+    }
+    .u-design-fixed-menu-on.fixed-menu #navigation-menu ul.sf-menu { margin-top: 0; }
+    #sticky-menu-alias, #sticky-menu-logo { display: none; }
+    
+    .u-design-fixed-menu-on.fixed-menu #navigation-menu #sticky-menu-logo {
+        display:inline-block;
+        float:left;
+        height: 40px;
+        padding-left: 20px;
+    }
+    .u-design-fixed-menu-on.fixed-menu #navigation-menu #sticky-menu-logo img { height: inherit; }
+    .u-design-fixed-menu-on.fixed-menu #navigation-menu > ul.sf-menu { background-color: transparent; }
+        .u-design-fixed-menu-on.fixed-menu #navigation-menu > ul.sf-menu {
+          margin-left: 0;
+          margin-right: 0;
+        }
+}
+    @media screen and (min-width: 960px) {
+        .u-design-fixed-menu-on.fixed-menu #main-menu {
+            -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+               -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+                    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+        }
+    }
+    
+    @media screen and (min-width: 960px) {
+        /* Set the Container widths first */
+        .container_24 {
+            max-width: 1100px;
+            width: auto;
+        }
+        /* Sidebar */
+        #main-content.grid_16 { width: 67%; }
+        #sidebar.grid_8 { width: 33%; }
+        #sidebar.push_8, #main-content.push_8 { left: 33%; }
+        #main-content.pull_16, #sidebar.pull_16 { right: 67%; }
+    }
+    
+    /* BEGIN: STICKY FOOTER CSS */
+    html, body { height: 100%; }
+    #wrapper-1 { min-height: 100%; }
+    #wrapper-1 { background-color: inherit;}
+    .push {
+        overflow:auto;
+        padding-bottom: 44px; 
+    }
+    #footer-bg {
+        position: relative;
+        margin-top: -44px; /* negative value of footer height */
+        height: 44px;
+        clear:both;
+    }
+    /* Opera Fix */
+    body:before {
+        content:"";
+        height:100%;
+        float:left;
+        width:0;
+        margin-top:-32767px;
+    }
+    /* END: STICKY FOOTER CSS */

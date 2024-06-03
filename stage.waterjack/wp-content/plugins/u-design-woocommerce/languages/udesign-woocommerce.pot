@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: U-Design WooCommerce Integration Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-16 09:31-0500\n"
+"PO-Revision-Date: 2017-11-16 09:31-0500\n"
+"Last-Translator: Andon <andon.design@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e;"
+"_n:1,2;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../u-design-woocommerce.class.php:306
+msgid "Home"
+msgstr ""
+
+#: ../u-design-woocommerce.class.php:371
+msgid "No product categories exist."
+msgstr ""
+
+#: ../u-design-woocommerce.class.php:417 ../widgets/widget-ud-wc-cart.php:86
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../u-design-woocommerce.class.php:417 ../widgets/widget-ud-wc-cart.php:86
+#, php-format
+msgid "Cart: %s %s "
+msgstr ""
+
+#: ../u-design-woocommerce.class.php:487
+msgid "Cart"
+msgstr ""
+
+#: ../shortcodes/udesign-wc-shortcodes.php:19
+#: ../vc-elements/udesign-wc-vc-elements.php:26
+msgid "Top rated products"
+msgstr ""
+
+#: ../shortcodes/udesign-wc-shortcodes.php:72
+#: ../vc-elements/udesign-wc-vc-elements.php:47
+msgid "Products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:49
+msgid "U-Design WooCommerce"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:50
+msgid "U-Design theme element"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:55
+msgid "Element Type"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:58
+msgid "WooCommerce products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:59
+msgid "WooCommerce top rated products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:63
+msgid "Select the element type."
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:67
+msgid "Title"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:71
+msgid "Enter title."
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:76
+msgid "Number"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:80
+msgid "Number of products to show."
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:86
+msgid "Show"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:89
+msgid "All products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:90
+msgid "Featured products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:91
+msgid "On-sale products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:99
+msgid "Select what products to show."
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:103
+msgid "Order by"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:106
+msgid "Date"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:107
+msgid "Price"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:108
+msgid "Random"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:109
+msgid "Sales"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:117
+msgid "Select what criteria should the product be ordered by."
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:121
+msgid "Order"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:124
+msgid "DESC"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:125
+msgid "ASC"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:133
+msgid "Select how the product should be ordered (Descending or Ascending)."
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:137
+msgid "Hide free products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:139
+#: ../vc-elements/udesign-wc-vc-elements.php:150
+msgid "Yes"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:148
+msgid "Show hidden products"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:159
+msgid "Custom Class"
+msgstr ""
+
+#: ../vc-elements/udesign-wc-vc-elements.php:163
+msgid ""
+"Use this option to pass a unique CSS class which you may use to style this "
+"particular instance of the content block in the front end with custom CSS."
+msgstr ""
+
+#: ../widgets/widget-ud-wc-cart.php:39
+msgid "A widget that displays cart info."
+msgstr ""
+
+#: ../widgets/widget-ud-wc-cart.php:45
+msgid "U-Design: WooCommerce Cart"
+msgstr ""
+
+#: ../widgets/widget-ud-wc-cart.php:77
+msgid "My Account"
+msgstr ""
+
+#: ../widgets/widget-ud-wc-cart.php:78
+msgid "Logout"
+msgstr ""
+
+#: ../widgets/widget-ud-wc-cart.php:80
+msgid "Login"
+msgstr ""
+
+#: ../widgets/widget-ud-wc-cart.php:82
+msgid "Register"
+msgstr ""
+
+#: ../widgets/widget-ud-wc-cart.php:119
+msgid "Title:"
+msgstr ""

@@ -1,0 +1,746 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: U-Design Shortcodes Button\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-21 22:00-0500\n"
+"PO-Revision-Date: 2017-06-21 22:00-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_nx;_n;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: udesign-shortcodes-button.php:176
+msgid "Unable to locate WordPress plugin directory."
+msgstr ""
+
+#: udesign-shortcodes-button.php:241
+msgid "ID:"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:16
+msgid "U-Design Shortcodes"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:18
+msgid "Layout"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:20
+msgid "Columns"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:21
+msgid "U-Design Shortcodes - Insert Columns"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:22
+msgid "Arrangement"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:23
+msgid "Starting Content"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:24
+msgid "Your content here..."
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:26
+msgid "Dividers"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:27
+msgid "U-Design Shortcodes - Insert Divider"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:28
+msgid "Divider Style"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:29
+msgid "Solid line divider"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:30
+msgid "Solid line divider with a link to the top"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:31
+msgid "Invisible, clears the line"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:33
+msgid "Buttons"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:35
+#: languages/udesign-shortcodes-button-strings.php:38
+#: languages/udesign-shortcodes-button-strings.php:40
+msgid "Flat Button"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:36
+#: languages/udesign-shortcodes-button-strings.php:58
+#: languages/udesign-shortcodes-button-strings.php:80
+msgid "U-Design Shortcodes - Insert Button"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:37
+#: languages/udesign-shortcodes-button-strings.php:63
+#: languages/udesign-shortcodes-button-strings.php:81
+msgid "Button Text"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:39
+#: languages/udesign-shortcodes-button-strings.php:65
+#: languages/udesign-shortcodes-button-strings.php:83
+#: languages/udesign-shortcodes-button-strings.php:106
+msgid "Link Title"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:41
+#: languages/udesign-shortcodes-button-strings.php:67
+#: languages/udesign-shortcodes-button-strings.php:85
+#: languages/udesign-shortcodes-button-strings.php:108
+msgid "URL"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:42
+msgid "Padding"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:43
+#: languages/udesign-shortcodes-button-strings.php:91
+#: languages/udesign-shortcodes-button-strings.php:140
+msgid "Background Color"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:44
+#: languages/udesign-shortcodes-button-strings.php:143
+#: languages/udesign-shortcodes-button-strings.php:169
+#: languages/udesign-shortcodes-button-strings.php:180
+msgid "Border Color"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:45
+msgid "Border Width"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:46
+#: languages/udesign-shortcodes-button-strings.php:92
+#: languages/udesign-shortcodes-button-strings.php:145
+#: languages/udesign-shortcodes-button-strings.php:170
+#: languages/udesign-shortcodes-button-strings.php:181
+msgid "Text Color"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:47
+msgid "Text Size"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:48
+#: languages/udesign-shortcodes-button-strings.php:71
+#: languages/udesign-shortcodes-button-strings.php:93
+#: languages/udesign-shortcodes-button-strings.php:109
+#: languages/udesign-shortcodes-button-strings.php:171
+#: languages/udesign-shortcodes-button-strings.php:194
+#: languages/udesign-shortcodes-button-strings.php:277
+msgid "Alignment"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:49
+#: languages/udesign-shortcodes-button-strings.php:72
+#: languages/udesign-shortcodes-button-strings.php:94
+#: languages/udesign-shortcodes-button-strings.php:110
+#: languages/udesign-shortcodes-button-strings.php:172
+#: languages/udesign-shortcodes-button-strings.php:195
+#: languages/udesign-shortcodes-button-strings.php:278
+msgid "Left"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:50
+#: languages/udesign-shortcodes-button-strings.php:73
+#: languages/udesign-shortcodes-button-strings.php:95
+#: languages/udesign-shortcodes-button-strings.php:111
+#: languages/udesign-shortcodes-button-strings.php:174
+#: languages/udesign-shortcodes-button-strings.php:196
+#: languages/udesign-shortcodes-button-strings.php:279
+msgid "Right"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:51
+#: languages/udesign-shortcodes-button-strings.php:74
+#: languages/udesign-shortcodes-button-strings.php:96
+#: languages/udesign-shortcodes-button-strings.php:173
+#: languages/udesign-shortcodes-button-strings.php:280
+msgid "Center"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:52
+#: languages/udesign-shortcodes-button-strings.php:97
+msgid "None"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:53
+#: languages/udesign-shortcodes-button-strings.php:75
+#: languages/udesign-shortcodes-button-strings.php:98
+#: languages/udesign-shortcodes-button-strings.php:112
+msgid "Link Target"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:54
+#: languages/udesign-shortcodes-button-strings.php:76
+#: languages/udesign-shortcodes-button-strings.php:99
+#: languages/udesign-shortcodes-button-strings.php:113
+msgid "Self"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:55
+#: languages/udesign-shortcodes-button-strings.php:77
+#: languages/udesign-shortcodes-button-strings.php:100
+#: languages/udesign-shortcodes-button-strings.php:114
+msgid "Blank"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:57
+#: languages/udesign-shortcodes-button-strings.php:64
+#: languages/udesign-shortcodes-button-strings.php:66
+msgid "Simple Button"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:59
+msgid "Type"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:60
+msgid "Default"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:61
+#: languages/udesign-shortcodes-button-strings.php:87
+msgid "Small"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:62
+msgid "Round"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:68
+#: languages/udesign-shortcodes-button-strings.php:191
+#: languages/udesign-shortcodes-button-strings.php:204
+#: languages/udesign-shortcodes-button-strings.php:256
+msgid "Style"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:69
+#: languages/udesign-shortcodes-button-strings.php:192
+#: languages/udesign-shortcodes-button-strings.php:205
+msgid "Dark"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:70
+#: languages/udesign-shortcodes-button-strings.php:193
+#: languages/udesign-shortcodes-button-strings.php:206
+msgid "Light"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:79
+#: languages/udesign-shortcodes-button-strings.php:82
+#: languages/udesign-shortcodes-button-strings.php:84
+msgid "Custom Button"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:86
+msgid "Size"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:88
+msgid "Medium"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:89
+msgid "Large"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:90
+msgid "X-Large"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:102
+msgid "Custom More Link"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:103
+msgid "U-Design Shortcodes - Insert Link"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:104
+msgid "Link Text"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:105
+#: languages/udesign-shortcodes-button-strings.php:107
+#: languages/udesign-shortcodes-button-strings.php:229
+msgid "Read more"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:116
+msgid "Content"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:118
+msgid "Content Block"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:119
+msgid "U-Design Shortcodes - Insert Content Block"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:120
+#: languages/udesign-shortcodes-button-strings.php:153
+#: languages/udesign-shortcodes-button-strings.php:163
+#: languages/udesign-shortcodes-button-strings.php:178
+#: languages/udesign-shortcodes-button-strings.php:187
+#: languages/udesign-shortcodes-button-strings.php:200
+msgid "Sample Content"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:121
+msgid "Image URL"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:122
+msgid ""
+"URL to a background image, if no image is specified the fallback would be "
+"the background color option"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:123
+#: languages/udesign-shortcodes-button-strings.php:284
+msgid "Select Image"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:124
+msgid "Background Stretch"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:125
+#: languages/udesign-shortcodes-button-strings.php:129
+#: languages/udesign-shortcodes-button-strings.php:138
+#: languages/udesign-shortcodes-button-strings.php:224
+#: languages/udesign-shortcodes-button-strings.php:227
+#: languages/udesign-shortcodes-button-strings.php:231
+#: languages/udesign-shortcodes-button-strings.php:235
+#: languages/udesign-shortcodes-button-strings.php:238
+#: languages/udesign-shortcodes-button-strings.php:240
+msgid "Yes"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:126
+#: languages/udesign-shortcodes-button-strings.php:130
+#: languages/udesign-shortcodes-button-strings.php:137
+#: languages/udesign-shortcodes-button-strings.php:223
+#: languages/udesign-shortcodes-button-strings.php:226
+#: languages/udesign-shortcodes-button-strings.php:232
+#: languages/udesign-shortcodes-button-strings.php:234
+#: languages/udesign-shortcodes-button-strings.php:237
+#: languages/udesign-shortcodes-button-strings.php:241
+msgid "No"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:127
+msgid ""
+"Extend the background to maximum width (the width of the browser window)"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:128
+msgid "Fixed Background"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:131
+#: languages/udesign-shortcodes-button-strings.php:139
+msgid ""
+"Sets whether the background image is fixed or scrolls with the rest of the "
+"page"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:132
+msgid "Background Position"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:133
+msgid ""
+"You may apply proper syntax for the CSS \"background-position\" property"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:134
+msgid "Background Repeat"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:135
+msgid "Background Size"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:136
+msgid "Parallax Scroll"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:141
+msgid "Content Padding"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:142
+msgid "You may apply proper syntax for the CSS \"padding\" property"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:144
+msgid "Padding Width"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:146
+msgid "Class"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:147
+msgid ""
+"Use this option to pass a unique CSS class which you may use to style this "
+"particular instance of the content block in the front end with custom CSS"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:149
+msgid "Message Box"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:151
+msgid "Predefined"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:152
+#: languages/udesign-shortcodes-button-strings.php:162
+#: languages/udesign-shortcodes-button-strings.php:177
+msgid "U-Design Shortcodes - Insert Message Box"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:154
+#: languages/udesign-shortcodes-button-strings.php:164
+#: languages/udesign-shortcodes-button-strings.php:179
+msgid "Replace this text with your message..."
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:155
+msgid "Message Box Type"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:156
+msgid "info"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:157
+msgid "success"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:158
+msgid "warning"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:159
+msgid "erroneous"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:161
+msgid "Custom"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:165
+msgid "Width"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:166
+msgid "Width could be in pixels (px) or percentage (%)"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:167
+msgid "Start Color"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:168
+msgid "End Color"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:176
+msgid "Simple"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:183
+msgid "Quotes"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:185
+msgid "Pullquote"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:186
+msgid "U-Design Shortcodes - Insert Pullquote"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:188
+#: languages/udesign-shortcodes-button-strings.php:201
+msgid "Symbol"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:189
+#: languages/udesign-shortcodes-button-strings.php:202
+msgid "Symbol 2"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:190
+#: languages/udesign-shortcodes-button-strings.php:203
+msgid "Symbol 1"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:198
+msgid "Blockquote (HTML)"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:199
+msgid "U-Design Shortcodes - Insert Blockquote"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:208
+msgid "Recent Posts"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:209
+msgid "U-Design Shortcodes - Insert Recent Posts"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:210
+msgid "Title"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:211
+msgid "Latest from the Blog"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:212
+msgid "Enter categories (IDs)"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:213
+msgid "To choose a catetory use the little dropdown menu above."
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:214
+msgid "For multiple categories enter comma-separated list of IDs."
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:215
+msgid "To include all categories leave the field blank."
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:216
+msgid "Number of posts to show"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:217
+msgid "at most 15"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:218
+msgid "Number of posts to skip"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:219
+msgid "offset from latest"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:220
+msgid "Number of words to show"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:221
+msgid ""
+"If lesser value, \"Excerpt Length\" defined in the theme's Blog Section page "
+"can overwrite this"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:222
+msgid "Show date and author"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:225
+msgid "Show \"more\" link"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:228
+msgid "\"more\" link text"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:230
+msgid "Show thumbnails"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:233
+msgid "Thumbnail frame"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:236
+msgid "Thumbnail shadow"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:239
+msgid "Default image"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:242
+msgid ""
+"When no image is found for a specific post then a fallback image will be "
+"displayed"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:243
+msgid "Thumbnail width"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:244
+#: languages/udesign-shortcodes-button-strings.php:246
+msgid "Width in pixels (px)"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:245
+msgid "Thumbnail height"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:248
+msgid "Accordion"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:250
+msgid "Toggle"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:252
+msgid "Tabs"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:254
+msgid "List Styles"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:255
+msgid "U-Design Shortcodes - Insert Bullets"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:257
+msgid "List Style 1"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:258
+msgid "List Style 2"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:259
+msgid "List Style 3"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:260
+msgid "List Style 4"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:261
+msgid "List Style 5"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:262
+msgid "List Style 6"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:263
+msgid "List Style 7"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:264
+msgid "List Style 8"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:265
+msgid "List Style 9"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:266
+msgid "List Style 10"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:267
+msgid "List Style 11"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:268
+msgid "Sample Content (ul list)"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:270
+msgid "Dropcap"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:271
+msgid "U-Design Shortcodes - Insert Dropcap"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:272
+msgid "Dropcap Letter"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:273
+msgid ""
+"Dropcap - a large initial letter usually used at the beginning of a section."
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:275
+msgid "Image Frame"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:276
+msgid "U-Design Shortcodes - Insert Image Frame"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:281
+msgid "Shadow"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:282
+msgid "Add image frame shadow"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:283
+msgid "Image HTML"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:286
+msgid "Custom Table"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:289
+msgid "Other"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:291
+msgid "Email Obfuscation"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:292
+msgid "U-Design Shortcodes - Obfuscate Email Address"
+msgstr ""
+
+#: languages/udesign-shortcodes-button-strings.php:293
+msgid "Email Address"
+msgstr ""

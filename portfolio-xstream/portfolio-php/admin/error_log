@@ -1,0 +1,2 @@
+[30-Apr-2019 06:52:06 UTC] PHP Warning:  include(../errors/database_error.php): failed to open stream: No such file or directory in /home/aarmfiel/public_html/portfolio-php/model/database.php on line 25
+[30-Apr-2019 06:52:06 UTC] PHP Warning:  include(): Failed opening '../errors/database_error.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/aarmfiel/public_html/portfolio-php/model/database.php on line 25

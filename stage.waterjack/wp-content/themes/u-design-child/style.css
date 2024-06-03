@@ -1,0 +1,194 @@
+/* 
+Theme Name:		 udesign child theme
+Theme URI:		 
+Description:	 
+Author:			 Anthony Armfield
+Author URI:		 
+Template:		 u-design
+Version:		 1.0.0
+Text Domain:	 U-Design-child
+-------------------------------------------------------------- */ 
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+
+/** Keyframes **/
+
+@keyframes 
+
+body {
+	background-color: #ffffff;
+}
+#logo {
+	padding-left: 0!important;
+}
+#top-wrapper {
+	background-color: rgba(49,57,60,0.60);
+	padding-bottom: 5px;
+}
+.page-id-4 .container {
+	width: 100%;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;
+}
+/*.page-id-4 .container .animate .one {
+	font-size: 50px;
+}
+.page-id-4 .container .animate .three {
+	font-size: 25px;
+}*/
+.page-id-4 .container .animate span {
+	display: inline-block;
+}
+
+.u-design-fixed-menu-on.fixed-menu #main-menu {
+	padding-bottom: 5px;
+}
+
+.white-text {
+	color: #ffffff;
+}
+#bottom-bg {
+	background: repeat-x scroll center top #31393C;
+}
+
+#navigation-menu > ul.sf-menu {
+	margin-right: 15%;
+}
+.esg-filters {
+	display: none;
+}
+/** Animated cards **/
+.card-animation .wrap {
+	margin:50px auto 0 auto;
+	width:100%;
+	display:flex;
+	align-items:space-around;
+	max-width:1200px;
+}
+.card-animation .tile {
+	width:380px;
+	height:380px;
+	margin:10px;
+	background-color:#9BE4FF;
+	display:inline-block;
+	background-size:cover;
+	position:relative;
+	cursor:pointer;
+	transition: all 0.4s ease-out;
+	box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.44);
+	overflow:hidden;
+	color:white;
+	font-family:'Roboto';
+}
+.card-animation .tile img {
+	height:100%;
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:0;
+	transition: all 0.4s ease-out;
+}
+.card-animation .tile .text {
+	/*   z-index:99; */
+	position:absolute;
+	padding:30px;
+	height:calc(100% - 60px);
+}
+.card-animation .tile h1 {
+	font-weight:300;
+	margin:0;
+	text-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+}
+
+.card-animation .tile h2 {
+	font-weight:100;
+	margin:20px 0 0 0;
+	font-style:italic;
+	transform: translateX(200px);
+}
+
+.card-animation .tile p {
+	font-weight:300;
+	margin:20px 0 0 0;
+	line-height: 25px;
+	/*   opacity:0; */
+	transform: translateX(-200px);
+	transition-delay: 0.2s;
+}
+
+.card-animation .animate-text {
+	opacity:0;
+	transition: all 0.6s ease-in-out;
+}
+
+.card-animation:hover {
+	/*   background-color:#99aeff; */
+	box-shadow: 0px 35px 77px -17px rgba(0,0,0,0.64);
+}
+
+.card-animation .tile:hover img {
+	opacity: 0.2;
+}
+
+.card-animation .tile:hover .animate-text {
+	transform:translateX(0);
+	opacity:1;
+}
+
+.card-animation .dots {
+	position:absolute;
+	bottom:20px;
+	right:30px;
+	margin: 0 auto;
+	width:30px;
+	height:30px;
+	color:currentColor;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:space-around;
+}
+
+.card-animation .dots span {
+	width: 5px;
+	height:5px;
+	background-color: currentColor;
+	border-radius: 50%;
+	display:block;
+	opacity:0;
+	transition: transform 0.4s ease-out, opacity 0.5s ease;
+	transform: translateY(30px);
+}
+
+.card-animation .tile:hover span
+{
+  opacity:1;
+  transform:translateY(0px);
+}
+
+.card-animation .dots span:nth-child(1)
+{
+   transition-delay: 0.05s;
+}
+
+.card-animation .dots span:nth-child(2)
+{
+   transition-delay: 0.1s;
+}
+
+.card-animation .dots span:nth-child(3)
+{
+   transition-delay: 0.15s;
+}
+
+
+@media (max-width: 1000px) {
+  .card-animation .wrap {
+   flex-direction: column;
+    width:400px;
+  }
+}

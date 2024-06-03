@@ -1,0 +1,29 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+@media (max-width: 1024px) {
+	.portfolio-single-image-full {
+		height: 400px;
+		margin: -140px 0px 20px !important;
+	}
+}
+@media (max-width: 320px) {
+	.portfolio-single-image-full {
+		height: 100px;
+		margin: -80px 0px 40px !important;
+	}
+}
+
+.logo-title {
+	margin-top: 20px;
+	font-family: 'Raleway', sans-serif ;
+}
+
+.rounded-circle {
+	border-radius: 10%;
+}
+
